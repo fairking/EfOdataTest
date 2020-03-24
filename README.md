@@ -1,6 +1,6 @@
 # EfOdataTest
 
-Testing [EntityFrameworkCore](https://github.com/nhibernate/nhibernate-core), [Automapper](https://github.com/AutoMapper/AutoMapper) and [Odata](https://github.com/OData/WebApi) together
+Testing [EntityFrameworkCore](https://github.com/dotnet/efcore), [Automapper](https://github.com/AutoMapper/AutoMapper) and [Odata](https://github.com/OData/WebApi) together
 
 List of tests:
 - OK `https://localhost:5001/odata/weatherforecast`
@@ -12,3 +12,5 @@ List of tests:
 Related issues: 
 - https://github.com/nhibernate/nhibernate-core/issues/2334
 - https://github.com/OData/WebApi/issues/2015
+
+NHibernate test: https://github.com/fairking/NhOdataTest
